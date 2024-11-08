@@ -1,4 +1,4 @@
-# CROSINT
+<h1 align="center">CROSINT
 Open Source Intelligence Gathering Tool Using Web scraping and API technologies
 
 [![GitHub stars](https://img.shields.io/github/stars/itsb1ng/bingbot.svg?color=pink)](https://github.com/crobinson-dev/CROSINT/main)
