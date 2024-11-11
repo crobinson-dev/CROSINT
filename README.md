@@ -16,9 +16,7 @@
 </div>
 
 ### Categories
-<br></br>
   - [Categories](#categories)
-  <br></br>
         - [Phone Records 📕](#phone-records)
         - [Phone Carrier 📲](#phone-carrier)
         - [Breach Data 🤖](#breach-data)
