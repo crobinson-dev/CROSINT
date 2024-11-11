@@ -1,9 +1,9 @@
 <h1 align="center">CROSINT</h1>
 <div class="heading" align="center">
   <div class="links">
-    <a href="www.linkedin.com/in/colin-rob"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="website"/></a>
-    <a href="www.github.com/crobinson-dev"><img src="https://img.shields.io/badge/Github-white?logo=github&logoColor=000000" alt="website"></a>
-    <a href="www.crobinson.dev"><img src="https://img.shields.io/badge/Website-black?logo=framer&logoColor=ffffff" alt="website"></a>
+    <a href="https://linkedin.com/in/colin-rob"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="website"/></a>
+    <a href="https://github.com/crobinson-dev"><img src="https://img.shields.io/badge/Github-white?logo=github&logoColor=000000" alt="website"></a>
+    <a href="https://crobinson.dev"><img src="https://img.shields.io/badge/Website-black?logo=framer&logoColor=ffffff" alt="website"></a>
   </div>
   
   <i>Open Source Intelligence Gathering Tool</i>
