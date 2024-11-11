@@ -12,8 +12,8 @@
   [![GitHub contributors](https://img.shields.io/github/contributors/itsb1ng/bingbot.svg?color=pink)](https://github.com/crobinson-dev/CROSINT/main)
 </div>
 
-[!WARNING]
-You are responsible with your own actions with what you use with this tool. CROSINT is to be used for educational purposes only.
+> [!WARNING]
+> You are responsible with your own actions with what you use with this tool. CROSINT is to be used for educational purposes only.
 
 
 
