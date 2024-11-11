@@ -4,7 +4,7 @@
     <a href="https://linkedin.com/in/colin-rob"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="website"/></a>
     <a href="https://github.com/crobinson-dev"><img src="https://img.shields.io/badge/Github-white?logo=github&logoColor=000000" alt="website"></a>
     <a href="https://crobinson.dev"><img src="https://img.shields.io/badge/Website-black?logo=framer&logoColor=ffffff" alt="website"></a>
-    <a href="https://ko-fi.com/crobinson_dev"><img src="https://img.shields.io/badge/Ko-Fi-black?logo=kofi&logoColor=ffffff" alt="website"></a>
+    <a href="https://ko-fi.com/crobinson_dev"><img src="https://img.shields.io/badge/KoFi-red?logo=kofi&logoColor=ffffff" alt="website"></a>
   </div>
   
   <i>Open Source Intelligence Gathering Tool</i>
