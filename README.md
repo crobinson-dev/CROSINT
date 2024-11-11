@@ -17,4 +17,4 @@
 
 ## License
 
-[![GNU](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![GNU](https://licensebuttons.net/l/GPL/2.0/88x62.png)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html#SEC1)
