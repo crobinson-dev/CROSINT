@@ -15,6 +15,16 @@
   [![GitHub contributors](https://img.shields.io/github/contributors/itsb1ng/bingbot.svg?color=pink)](https://github.com/crobinson-dev/CROSINT/main)
 </div>
 
+### Categories
+  - [Categories](#categories)
+        - [Phone Records 📕](#phone-records)
+        - [Phone Carrier 📲](#phone-carrier)
+        - [Breach Data 🤖](#breach-data)
+
+## Categories
+
+#### Phone Records 📕
+
 > [!WARNING]
 > You are responsible with your own actions with what you use with this tool. CROSINT is to be used for educational purposes only.
 
