@@ -26,7 +26,10 @@
 ## Introduction
 CROSINT is an **Open Source Intelligence Gathering Tool (OSINT)** to search digital footprints of specific objects. I, myself,
 have used many tools including Sherlock and Google Dorking to utilize intelligence gathering for *educational* and *authorized*
-purposes. Utilizing my experience with python and related languages I wanted to to create a __CLI Tool__ available on Ubuntu and Windows systems to explore digital investigations.
+purposes. Utilizing my experience with python and related languages I wanted to to create a **CLI Tool** available on Ubuntu and Windows systems to explore digital investigations.
+
+#### How It Works
+It works
 
 ## Categories
 
