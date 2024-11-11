@@ -14,13 +14,15 @@
   [![GitHub forks](https://img.shields.io/github/forks/itsb1ng/bingbot.svg?color=pink)](https://github.com/crobinson-dev/CROSINT/main)
   [![GitHub contributors](https://img.shields.io/github/contributors/itsb1ng/bingbot.svg?color=pink)](https://github.com/crobinson-dev/CROSINT/main)
 </div>
-<div class="categories">
+
 ### Categories
+<br></br>
   - [Categories](#categories)
+  <br></br>
         - [Phone Records 📕](#phone-records)
         - [Phone Carrier 📲](#phone-carrier)
         - [Breach Data 🤖](#breach-data)
-</div>
+
 ## Categories
 
 #### Phone Records 📕
