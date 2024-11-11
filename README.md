@@ -24,8 +24,7 @@
   - [Packages](#packages)
 
 ## Introduction
-CROSINT is and Open Source Intelligence Gathering Tool (OSINT) to search digital
-footprints of specific objects.
+CROSINT is and Open Source Intelligence Gathering Tool (OSINT) to search digital footprints of specific objects.
 
 ## Categories
 
