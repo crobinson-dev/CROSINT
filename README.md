@@ -16,10 +16,16 @@
 </div>
 
 ### Categories
+  - [Introduction][#introduction]
   - [Categories](#categories)
-    - [Phone Records 📕](#phone-records)
-    - [Phone Carrier 📲](#phone-carrier)
-    - [Breach Data 🤖](#breach-data)
+    - [Phone Records 📕](#phone-records-)
+    - [Phone Carrier 📲](#phone-carrier-)
+    - [Breach Data 🤖](#breach-data-)
+  - [Packages](#packages)
+
+## Introduction
+CROSINT is and Open Source Intelligence Gathering Tool (OSINT) to search digital
+footprints of specific objects.
 
 ## Categories
 
