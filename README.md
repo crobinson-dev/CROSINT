@@ -1,5 +1,6 @@
 <h1 align="center">CROSINT</h1>
-<div class="banners" align="center"><a href="www.linkedin.com/in/colin-rob"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor" alt="website"/></a></div>
+<div class="banners" align="center"><a href="www.linkedin.com/in/colin-rob"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="website"/></a>
+<a href="www.github.com/crobinson-dev"><img src="https://img.shields.io/badge/Github-white?logo=github" alt="website"/></a></div>
 Open Source Intelligence Gathering Tool
 
 [![GitHub stars](https://img.shields.io/github/stars/itsb1ng/bingbot.svg?color=pink)](https://github.com/crobinson-dev/CROSINT/main)
