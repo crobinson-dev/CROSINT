@@ -17,9 +17,9 @@
 
 ### Categories
   - [Categories](#categories)
-        - [Phone Records 📕](#phone-records)
-        - [Phone Carrier 📲](#phone-carrier)
-        - [Breach Data 🤖](#breach-data)
+    - [Phone Records 📕](#phone-records)
+    - [Phone Carrier 📲](#phone-carrier)
+    - [Breach Data 🤖](#breach-data)
 
 ## Categories
 
