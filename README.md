@@ -16,7 +16,7 @@
 </div>
 
 ### Categories
-  - [Introduction][#introduction]
+  - [Introduction](#introduction)
   - [Categories](#categories)
     - [Phone Records 📕](#phone-records-)
     - [Phone Carrier 📲](#phone-carrier-)
