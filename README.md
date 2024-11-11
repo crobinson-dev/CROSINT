@@ -15,5 +15,6 @@
 > [!WARNING]
 > You are responsible with your own actions with what you use with this tool. CROSINT is to be used for educational purposes only.
 
+## License
 
-
+[![GNU](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
