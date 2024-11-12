@@ -10,9 +10,13 @@
   <i>Open Source Intelligence Gathering Tool</i>
   <img alt="osint" src="assets/crosint.png"> </img>
 
-  [![GitHub stars](https://img.shields.io/github/stars/itsb1ng/bingbot.svg?color=pink)](https://github.com/crobinson-dev/CROSINT/main)
-  [![GitHub forks](https://img.shields.io/github/forks/itsb1ng/bingbot.svg?color=pink)](https://github.com/crobinson-dev/CROSINT/main)
-  [![GitHub contributors](https://img.shields.io/github/contributors/itsb1ng/bingbot.svg?color=pink)](https://github.com/crobinson-dev/CROSINT/main)
+  <a href="https://github.com/crobinson-dev/CROSINT/stargazers"><img src="https://img.shields.io/github/stars/crobinson-dev/CROSINT" alt="Stars Badge"/></a>
+  <a href="https://github.com/crobinson-dev/CROSINT/network/members"><img src="https://img.shields.io/github/forks//crobinson-dev/CROSINT" alt="Forks Badge"/></a>
+  <a href="https://github.com/crobinson-dev/CROSINT/pulls"><img src="https://img.shields.io/github/issues-pr/crobinson-dev/CROSINT" alt="Pull Requests Badge"/></a>
+  <a href="https://github.com/crobinson-dev/CROSINT/issues"><img src="https://img.shields.io/github/issues/crobinson-dev/CROSINT" alt="Issues Badge"/></a>
+  <a href="https://github.com/crobinson-dev/CROSINT/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/crobinson-dev/CROSINT?color=ff27ff"></a>
+  <a href="https://github.com/crobinson-dev/CROSINT/blob/master/LICENSE"><img src="https://img.shields.io/github/license/crobinson-dev/CROSINT?color=ff27ff" alt="License Badge"/></a>
+
 </div>
 
 ### Categories
@@ -29,7 +33,7 @@ have used many tools including Sherlock and Google Dorking to utilize intelligen
 purposes. Utilizing my experience with python and related languages I wanted to to create a **CLI Tool** available on Ubuntu and Windows systems to explore digital investigations.
 
 #### How It Works
-It works
+
 
 ## Categories
 
